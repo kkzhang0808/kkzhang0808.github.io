@@ -11,10 +11,9 @@ url: http://kkzhang0808.github.io
 # your url: http://USERNAME.github.io
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-github: mygithub
-email: me@jane.doe
+twitter: zhangyooo
+github: kkzhang0808
+email: sa517494@mail.ustc.edu.cn
 
 gems:
   - jekyll-seo-tag
