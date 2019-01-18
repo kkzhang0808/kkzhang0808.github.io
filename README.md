@@ -1,10 +1,10 @@
 <p align="center">
-    <h2 align="center">Violet Jekyll Template - <a href="http://sergiokopplin.github.io/violet/">Demo</a> · <a href="https://travis-ci.org/sergiokopplin/violet"><img src="https://travis-ci.org/sergiokopplin/violet.svg?branch=gh-pages" alt="Build Status" /></a></h2>
+    <h2 align="center">Blog Template - <a href="http://sergiokopplin.github.io/violet/">Demo</a> · <a href="#"><img src="#" alt="Build Status" /></a></h2>
 </p>
 
 <p align="center">A purple theme for girls and boys.</p>
 
-<p align="center"><strong>Inspiration</strong>: <a href="http://cyberglot.me">Ju Gonçalves</a></p>
+<p align="center"><strong>Inspiration</strong>: <a href="#">Ju Gonçalves</a></p>
 
 ***
 
@@ -28,15 +28,15 @@
 
 ## What has inside?
 
-- [Jekyll](https://jekyllrb.com/) and [Sass](http://sass-lang.com/)
-- Tests with [Travis](https://travis-ci.org/)
+- [Jell](#) and [Sass](#)
+- Tests with [Travis](#)
 - No JS. :sunglasses:
 
 ## Setup
 
 0. :star: to the project. :metal:
-1. [Install Jekyll](http://jekyllrb.com), [NodeJS](https://nodejs.org/) and [Bundler](http://bundler.io/).
-2. Fork the project [Violet](https://github.com/sergiokopplin/violet/fork)
+1. [Install](#), [NodeJS](https://nodejs.org/) and [Bundler](http://bundler.io/).
+2. Fork the project [Viot](#)
 3. Edit `_config.yml` with your data.
 4. `bundle install`
 5. `bundle exec jekyll serve`
@@ -66,14 +66,14 @@ bundle exec htmlproofer ./_site
 
 If you liked my work, buy me a coffee <3
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U7B6UM6QWLG7E)
+[![paypal](#)
 
 ## Problems?
 
-Tell me on github or open a [issue](https://github.com/sergiokopplin/violet/issues/new).
+Tell me on github or open a [issue](#).
 
 #### Inspirations:
-- [Ju Gonçalves](http://cyberglot.me/)
+- [Ju Gonçalves](#)
 
 ---
 
